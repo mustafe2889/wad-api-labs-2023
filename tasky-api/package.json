@@ -7,7 +7,7 @@
     "start": "babel-node index.js",
     "dev": "nodemon --exec npm start"
   },
-  "author": "mustafe2889",
+  "author": "mustafe2899",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.3",
